@@ -1,5 +1,7 @@
 # Introduction
 
+Git is easy. Git is fun. Thanks Linus!
+
 During the next year you will learn the fundamentals of data science.
 
 Surviving the nine courses which make up the [Data Science Specialization][0001] offered by [Johns Hopkins University][jhu] requires a
